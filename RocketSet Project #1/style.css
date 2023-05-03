@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+}
+
+h1 > span {
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+span{
+    color: #FF9900;
+}
+
+p{
+    color: #7D7987;
+}
+
+
